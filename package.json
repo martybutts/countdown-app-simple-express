@@ -1,0 +1,23 @@
+{
+  "name": "countdown-app-simple-express",
+  "version": "1.0.0",
+  "description": "serving static files through express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martybutts/countdown-app-simple-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martybutts/countdown-app-simple-express/issues"
+  },
+  "homepage": "https://github.com/martybutts/countdown-app-simple-express#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
